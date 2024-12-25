@@ -12,7 +12,9 @@ export default {
   model: {},
   props: {},
   data() {
-    return {}
+    return {
+      user: 'zhangwuji'
+    }
   },
   computed: {},
   watch: {},
